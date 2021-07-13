@@ -42,7 +42,7 @@ class childS {
   //this.button10.position(3*displayWidth/2/2,11*displayHeight/25);
 
   this.button1.mousePressed(()=>{
-   location.href = '/js/cal.html';
+   location.href = 'https://dharmanshu2603.github.io/Sillicon-Valley-test/cal.html';
  });
   this.button2.mousePressed(()=>{
    window.location.href = "https://googledictionary.freecollocation.com/";
